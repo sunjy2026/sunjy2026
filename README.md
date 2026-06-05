@@ -1,22 +1,17 @@
 ## Hi there is my planet 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SUNGC2237🪐&fontSize=60&fontAlignY=35&desc=creative planet&descAlignY=55" />
 <p align="center">
-  <svg width="220" height="160" viewBox="0 0 220 160" xmlns="http://www.w3.org/2000/svg">
-    <!-- 先画后面的半环 -->
-    <path d="M 35 70 A 70 25 0 0 1 185 70" fill="none" stroke="#D4A373" stroke-width="8" />
-    <path d="M 35 70 A 70 25 0 0 1 185 70" fill="none" stroke="#F4D03F" stroke-width="3" />
-    <!-- 球体 -->
-    <circle cx="110" cy="80" r="45" fill="#E8B96D" />
-    <!-- 再画前面的半环 -->
-    <path d="M 35 70 A 70 25 0 0 0 185 70" fill="none" stroke="#D4A373" stroke-width="8" />
-    <path d="M 35 70 A 70 25 0 0 0 185 70" fill="none" stroke="#F4D03F" stroke-width="3" />
-  </svg>
+  <img src="https://img.shields.io/badge/DMT-Planet_Creator-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-Python-00C4FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML-Dynamic_NNs-9B59B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Guitar-Player-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Astrophysics-Enthusiast-F39C12?style=for-the-badge" />
 </p>
-
 # ✨ HELLO HELLO HELLO
 This is my creative planet, also my base for causing mischief 🤣
 
 🔭 I'm currently working on some **cool stuff** (secret for now 😉)  
-🌱 I'm learning: **C / C++ / Python**, and how to create surprises with code  
+🌱 I'm learning: **C / C++ / Python**, dynamic neural networks, and how to create surprises with codeand how to create surprises with code  
 👯 I'm looking to collaborate on: any fun and interesting open source projects  
 🤔 I need help with: turning wild, imaginative ideas into working programs  
 ⚡ Fun fact: My GitHub snake is still skinny because I'm raising it 🐍
