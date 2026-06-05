@@ -4,21 +4,21 @@
 </div>
 
 # ✨ HELLO HELLO HELLO
-> 这里是我的创意星球，也是我搞破坏的基地 🤣
+This is my creative planet, also my base for causing mischief 🤣
 
-🔭 我目前正在做一些 **很酷的事情**（暂时保密 😉）  
-🌱 我正在学习：**C / C++ / Python**，以及如何用代码制造惊喜  
-👯 我想合作：任何有趣、有意思的开源项目  
-🤔 我需要帮助：把天马行空的想法变成能跑的程序  
-⚡ 趣事：我的 GitHub 贪吃蛇还很瘦，因为我正在“养大”它 🐍
+🔭 I'm currently working on some **cool stuff** (secret for now 😉)  
+🌱 I'm learning: **C / C++ / Python**, and how to create surprises with code  
+👯 I'm looking to collaborate on: any fun and interesting open source projects  
+🤔 I need help with: turning wild, imaginative ideas into working programs  
+⚡ Fun fact: My GitHub snake is still skinny because I'm raising it 🐍
 
 ---
 
-## 🧩 我参与的项目（最近）
+🧩 **Projects I've been working on (recently)**
 
-- **[Vocab Universe](https://github.com/sunjy2026/vocab-universe)** – 词族学习网络，把单词变成星系  
-- **[CoinNote](https://github.com/sunjy2026/CoinNote)** – 花钱疼痛放大器，奶茶 = 13 分钟命  
-- 还有几个秘密项目 … 等熟了再公开 🤫
+- **Vocab Universe** – word family learning network, turning words into galaxies  
+- **CoinNote** – pain amplifier for spending, a milk tea = 13 minutes of your life  
+- And a few secret projects … will reveal when they're ready 🤫
 
 ---
 <picture>
