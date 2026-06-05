@@ -1,6 +1,6 @@
 ## Hi there is my planet 👋
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=创意星球🌍&fontSize=60&fontAlignY=35&desc=搞破坏基地&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SUNGC 2237🪐&fontSize=60&fontAlignY=35&desc=🛸creative planet&descAlignY=55" />
 </div>
 
 # ✨ HELLO HELLO HELLO
