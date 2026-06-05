@@ -1,4 +1,7 @@
-## Hi there is my planet 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A81C&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%98%9C+welcome+to+my+planet+%F0%9F%91%8B;This+is+my+creative+planet;Where+ideas+take+off+and+fun+begins;Let's+cause+some+mischief+together!&repeat=false" alt="Typing SVG" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SUNGC2237🪐&fontSize=60&fontAlignY=45&desc=creative%20planet&descAlignY=65&voffset=30" />
 
 <p align="center">
@@ -33,7 +36,7 @@ This is my creative planet, also my base for causing mischief 🤣
   <img alt="github-snake" src="https://raw.githubusercontent.com/sunjy2026/sunjy2026/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🌈 趣味小彩蛋
+## 🌈 Fun Easter Egg
 
 ```python
 while not success:
