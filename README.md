@@ -1,9 +1,9 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=创意星球🌍&fontSize=60&fontAlignY=35&desc=数字媒体技术·搞破坏基地&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=创意星球🌍&fontSize=60&fontAlignY=35&desc=搞破坏基地&descAlignY=55" />
 </div>
 
-# ✨ 
+# ✨ HELLO HELLO
 > 这里是我的创意星球，也是我搞破坏的地方 🤣
 
 🔭 我目前正在做一些 **很酷的事情**（暂时保密 😉）  
@@ -29,6 +29,11 @@
 - 还有几个秘密项目 … 等熟了再公开 🤫
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunjy2026/sunjy2026/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sunjy2026/sunjy2026/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sunjy2026/sunjy2026/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🌈 趣味小彩蛋
 
