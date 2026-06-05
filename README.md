@@ -3,17 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=创意星球🌍&fontSize=60&fontAlignY=35&desc=数字媒体技术·搞破坏基地&descAlignY=55" />
 </div>
 
-# ✨ 我是夜行开发者 · 数字媒体技术学生
-
+# ✨ 
 > 这里是我的创意星球，也是我搞破坏的地方 🤣
 
 🔭 我目前正在做一些 **很酷的事情**（暂时保密 😉）  
 🌱 我正在学习：**C / C++ / Python**，以及如何用代码制造惊喜  
 👯 我想合作：任何有趣、有点“不正经”的开源项目  
 🤔 我需要帮助：把离谱的想法变成能跑的程序  
-💬 问我关于：数字媒体、PWA、Three.js，或者怎么用代码“搞破坏”  
-📫 联系我：sunjy2026@github  
-😄 称呼：随便叫，不叫我全名就行  
 ⚡ 趣事：我的 GitHub 贪吃蛇还很瘦，因为我正在“养大”它 🐍
 
 ---
