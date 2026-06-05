@@ -17,6 +17,13 @@ This is my creative planet, also my base for causing mischief 🤣
 
 🔭 I'm currently working on some **cool stuff** (secret for now 😉)  
 🌱 I'm learning: **C / C++ / Python**, dynamic neural networks, and how to create surprises with codeand how to create surprises with code  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+</p>
 👯 I'm looking to collaborate on: any fun and interesting open source projects  
 🤔 I need help with: turning wild, imaginative ideas into working programs  
 ⚡ Fun fact: My GitHub snake is still skinny because I'm raising it 🐍
