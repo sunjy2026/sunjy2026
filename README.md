@@ -4,16 +4,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SUNGC2237🪐&fontSize=60&fontAlignY=45&desc=creative%20planet&descAlignY=65&voffset=30" />
 
-<p align="center">
-<p align="center">
-  <img src="https://img.shields.io/badge/DMT-Planet_Creator-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-Python-00C4FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PyTorch-Neural_Networks-9B59B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Three.js-PWA-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Astrophysics-Enthusiast-F39C12?style=for-the-badge" />
-</p>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![Three.js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white)
+
+
+
 
 # ✨ HELLO HELLO HELLO
+
 This is my creative planet, also my base for causing mischief 🤣
 
 🔭 I'm currently working on some **cool stuff** (secret for now 😉)  
